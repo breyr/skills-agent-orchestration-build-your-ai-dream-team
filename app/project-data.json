@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Hub",
+      "owner": "Mona Patel",
+      "status": "Active",
+      "recentActivity": "The contributor quick-start flow was published for review.",
+      "priority": "High",
+      "summary": "A welcoming home for guides, contribution paths, and the team's shared working agreements."
+    },
+    {
+      "name": "Release Radar",
+      "owner": "Jordan Lee",
+      "status": "On track",
+      "recentActivity": "The next release checklist is 80% complete ahead of the planning review.",
+      "priority": "Medium",
+      "summary": "A lightweight view of upcoming releases, milestones, and the work that keeps launches predictable."
+    },
+    {
+      "name": "Design System Refresh",
+      "owner": "Priya Shah",
+      "status": "At risk",
+      "recentActivity": "The accessibility audit found three components that need updated focus states.",
+      "priority": "High",
+      "summary": "A more consistent component foundation that makes product experiences faster to build and easier to use."
+    },
+    {
+      "name": "API Reliability",
+      "owner": "Alex Romero",
+      "status": "Active",
+      "recentActivity": "Error-budget reporting is now available in the weekly engineering review.",
+      "priority": "Urgent",
+      "summary": "Improving service resilience through clearer ownership, practical observability, and safer changes."
+    },
+    {
+      "name": "Onboarding Journey",
+      "owner": "Sam Wilson",
+      "status": "Planned",
+      "recentActivity": "Interview themes were grouped into four opportunities for the first discovery sprint.",
+      "priority": "Low",
+      "summary": "A contributor-centered onboarding experience that turns a first visit into a confident first contribution."
+    },
+    {
+      "name": "Data Explorer",
+      "owner": "Taylor Kim",
+      "status": "Complete",
+      "recentActivity": "The initial dashboard shipped with saved views and export support.",
+      "priority": "Medium",
+      "summary": "A simple way to explore project signals and turn shared data into useful team decisions."
+    }
+  ]
+}
